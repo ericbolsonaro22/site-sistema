@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+    color: lawngreen;
+    font-family: Verdana, sans-serif;
+}
+a{
+    text-decoration: none;
+    color: blueviolet;
+}
+a:hover{
+    color: blueviolet;
+    cursor: pointer;
+    background-color: aliceblue;
+    font-size: 2.0rem;
+    transition: 2s;
+}
